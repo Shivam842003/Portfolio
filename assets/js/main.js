@@ -140,3 +140,10 @@ document.addEventListener('DOMContentLoaded', function() {
      document.getElementById('nav-links').classList.toggle('active');
   });
  });
+
+//  for Full stack developer
+
+document.getElementById('fullStackLink').addEventListener('click', function() {
+  // Display an alert when the link is clicked
+  alert('Did Not Recived it By UpGard');
+});
